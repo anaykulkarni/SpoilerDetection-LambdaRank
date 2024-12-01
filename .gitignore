@@ -1,0 +1,4 @@
+*.csv
+*.json.gz
+__pycache__
+.DS_Store
